@@ -52,8 +52,8 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Commands\Test.cs" />
-    <Compile Include="Commands\Configuration\ConfigFields.cs" />
-    <Compile Include="Commands\Configuration\C.cs" />
+    <Compile Include="Configuration\ConfigFields.cs" />
+    <Compile Include="Configuration\C.cs" />
     <Compile Include="Eventing\EventHandler.cs" />
     <Compile Include="Eventing\ServerEvents.cs" />
     <Compile Include="Loader.cs" />
